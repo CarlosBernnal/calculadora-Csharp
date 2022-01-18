@@ -1,2 +1,2 @@
 # calculadora-js-
-calculadora con interfaz grafica en javascript
+calculadora con interfaz grafica en javascript hecho desde cero
