@@ -1,2 +1,2 @@
-# calculadora-js-
-calculadora con interfaz grafica en javascript hecho desde cero
+# calculadora con C# - .NET FRAMEWORK
+calculadora con interfaz grafica en Visual Studio hecho desde cero
